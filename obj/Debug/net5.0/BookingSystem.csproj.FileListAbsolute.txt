@@ -1,0 +1,16 @@
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.csprojAssemblyReference.cache
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.AssemblyInfoInputs.cache
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.AssemblyInfo.cs
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.exe
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.deps.json
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.runtimeconfig.json
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.runtimeconfig.dev.json
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.dll
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\ref\BookingSystem.dll
+C:\Users\PRINCE\source\repos\BookingSystem\bin\Debug\net5.0\BookingSystem.pdb
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.dll
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\ref\BookingSystem.dll
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.pdb
+C:\Users\PRINCE\source\repos\BookingSystem\obj\Debug\net5.0\BookingSystem.genruntimeconfig.cache
